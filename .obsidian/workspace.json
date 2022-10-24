@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "c196206b860795c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7a84a33c0647b3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8069a9e44f28289",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Queries.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "08dd1e5161d65a2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f40d2fa3b86eceb6",
+    "type": "split",
+    "children": [
+      {
+        "id": "8651f6b7db997279",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "444ce67550ddea35",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ce35f4083680dbe8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f7eaae3531c87cce",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "e31551b0dc217c7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "35e81642d9f90db3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48f5b358a29ecf3b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0cfa3e8726496fe6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "876b16a9b090c9f2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "04e92ab6040cdf7f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "08dd1e5161d65a2e",
+  "lastOpenFiles": [
+    "Queries.md",
+    "Events/Frodo gets stabbed.md",
+    "Episodes/Episode 2.md",
+    "Episodes/Episode 1.md",
+    "Series/The Show.md",
+    "Events/Sam and Frodo go on an adventure.md",
+    "Events/Sam and Frodo meet eachother.md",
+    "Events/Sam gets lunch.md",
+    "Characters/Frodo.md",
+    "Series/Some Other Show.md"
+  ]
+}
